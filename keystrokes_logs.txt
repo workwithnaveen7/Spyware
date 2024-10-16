@@ -1,0 +1,1 @@
+s p y w a r e Key.shift Key.space Key.cmd Key.shift S 
